@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great calumny of The Quakers despising the Holy Scriptures, refuted out of their printed books, unjustly perverted, confusedly curtail'd and crowded, by William Mather in his Dagger-sheet.</title>
+            <author>Robinson, William, of Durham.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91904</idno>
+            <idno type="STC">Wing R1725</idno>
+            <idno type="STC">ESTC R182827</idno>
+            <idno type="EEBO-CITATION">45578421</idno>
+            <idno type="OCLC">ocm 45578421</idno>
+            <idno type="VID">172341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172341)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2626:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great calumny of The Quakers despising the Holy Scriptures, refuted out of their printed books, unjustly perverted, confusedly curtail'd and crowded, by William Mather in his Dagger-sheet.</title>
+                  <author>Robinson, William, of Durham.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle, in White-Hart-Court in Gracious-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In ms. at the bottom of page: by Wm. Robinson of Durham.</note>
+                  <note>Imperfect: folded with slight loss of print.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mather, W. --  (William), fl. 1695. --  Of the Quakers despising the Holy Scriptures.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:172341:1" rendition="simple:additions"/>
+            <head>The great Calumny of <hi>The Qua<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers deſpiſing the Holy Scriptures,</hi> refuted out of their printed Books, unjuſtly Perverted, confuſedly Curtail'd and Crowded, by <hi>William Mather</hi> in his <hi>Dagger-Sheet.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>The <hi>Dagger-man</hi> of <hi>Bedford</hi> keen,</l>
+                     <l>His dirty Lyes here's to be ſeen.</l>
+                     <l>Againſt the <hi>Quakers</hi> he doth Fight,</l>
+                     <l>That in God's holy Word delight.</l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>Bible</hi>'s Stag'd to Scorn by him;</l>
+                     <l>A wicked Fool, he mocks in Sin.</l>
+                     <l>Good honeſt Men he doth Defame,</l>
+                     <l>Which will at laſt be his great Shame.</l>
+                  </lg>
+                  <lg>
+                     <l>He's guilty of notorious Lyes,</l>
+                     <l>Who ſaith, The <hi>Bible</hi> we Deſpiſe.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <div type="part">
+               <head>Quakers <hi>Books truly Quoted, againſt</hi> W. Mather.</head>
+               <p>G. <hi>F</hi>'s <hi>Great Myſt.</hi> p. 18, 75, &amp; 246. <q>The Scriptures are the <hi>Words</hi> of <hi>God,</hi> and Chriſt is the <hi>Word.</hi>
+                  </q> 
+                  <q>And the Scriptures are the <hi>Words</hi> of <hi>God,</hi> and the <hi>Words</hi> of <hi>Chriſt;</hi> for, <hi>The Word was in the beginning with God, and was God,</hi>
+                  </q> John 1. 1. <q>But the <hi>Scriptures</hi> of <hi>Truth</hi> are God's Words, which Chriſt the Word fulfils: They are not called the <hi>Word,</hi> but Chriſt is the <hi>Word</hi> of <hi>God,</hi>
+                  </q> Rev. 19. 13. <hi>And he was clothed with a Veſture dipt in Blood, and his Name is called The Word of God.</hi> See how baſely <hi>W. Mather</hi> hath perverted <hi>G. F</hi>'s Words at C.</p>
+               <p>
+                  <hi>Lawſon</hi>'s <hi>Unt. Teacher,</hi> p. 2. <q>That the <hi>Word of Truth</hi> is called the Scriptures, <hi>Ma<g ref="char:EOLhyphen"/>ther</hi> brings no proof.</q> Whether <hi>Moſes</hi> or <hi>Hermes</hi> was the firſt Pen-man, was none of <hi>R. R</hi>'s Queſtion, as the following Words in that Book will teſtifie.</p>
+               <p>
+                  <q>
+                     <hi>S. Fiſher</hi> blames thoſe that run their Rounds, Dance up and down in their dark Minds, with their Tranſcriptions and Tranſlations, Senſes and Meanings, upon the Texts of the Scriptures, and their making them no other than a <hi>Lesbian Rule,</hi> or <hi>Noſe of Wax.</hi>
+                  </q> 
+                  <hi>(S. F</hi>'s <hi>Works,</hi> p. 752.) This was <hi>S. Fiſher</hi>'s Re<g ref="char:EOLhyphen"/>proof upon thoſe, that wreſted and twiſted them, and put their own Meanings or Expoſitions upon the Scriptures, ſo turned them any ways, to pleaſe themſelves.</p>
+               <p>
+                  <hi>W. Penn</hi>'s <hi>Invalid.</hi> p. 47. <q>Thus no Man ſees one jot or tittle in the Scriptures, but he that hath the Spirit of God.</q> 
+                  <hi>Note,</hi> What will this Man have us to ſee without <hi>Light</hi> outwardly? That cannot be. Would he have us to ſee the <hi>Things</hi> of <hi>God</hi> without the <hi>Spirit</hi> of <hi>God?</hi> That cannot be neither. How ſhall we then ſee the Scriptures (for they are the <hi>Things</hi> of <hi>God)</hi> any other ways, than by his Spirit? <hi>For what Man knoweth the things of a Man, ſave the Spirit of a Man, which is in him? Even ſo the things of God knoweth no Man, but the Spirit of God,</hi> 1 Cor. 2. 11.</p>
+               <p>
+                  <hi>J. Parnel</hi>'s <hi>Shield,</hi> &amp;c. p. 10. <q>What is the Chaff to the Wheat, ſaith the Lord? So he that hath the Letter, let him ſpeak the Letter; and he that hath the Life, let him ſpeak the Life.</q> I ſee not what <hi>Mather</hi> can make of this, more than a <hi>Caution</hi> to thoſe <hi>that run, and the Lord ſent them not:</hi> See <hi>Jer.</hi> 23. 21. <hi>I have not ſent theſe Prophets, yet they ran: I have not ſpoken to them, yet they propheſied.</hi> And verſ. 28. <hi>He that hath a Dream, let him tell his Dream; and he that hath my Word, let him ſpeak it faithfully. What is the Chaff to the What, ſaith the Lord?</hi>
+               </p>
+               <p>
+                  <hi>Id. ibid.</hi> 
+                  <q>And he who ſays, the Letter is the Light, is in Darkneſs, and Errs, not knowing the Scriptures.</q> 
+                  <hi>Note,</hi> He muſt be very ſhort ſighted, that ſees no difference between the <hi>Letter</hi> and the <hi>Light;</hi> and he that has the <hi>Letter,</hi> and is out of the <hi>Light,</hi> is in great Darkneſs, not knowing whither he goes: Theſe will be apt to ſtumble and fall into Holes and Pits, as <hi>Mather</hi> has done; and all this for wa<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of taking heed to the <hi>Light.</hi>
+               </p>
+               <p>
+                  <hi>G. F</hi>'s <hi>Saul's Errand,</hi> p. 7. <hi>The Letter killeth, but the Spirit giveth Life</hi> (2 Cor. 3. 6.) Now the <hi>Dagger-man</hi> is fighting againſt the <hi>Scriptures,</hi> for it is proved againſt him, that the <hi>Letter killeth.</hi> He had need haſten to <hi>Repent</hi> of his evil Deeds he has done againſt the <hi>Light</hi> in his own Heart, that he may find Mercy with the Lord, before it be too late.</p>
+               <p>
+                  <hi>W. P.</hi> did not ſay, as <hi>Mather</hi> has ſaid, <hi>That Faith in Chriſt's outward Manifeſtation has been adeadly Poyſon</hi> (at his Letter S) But <hi>W. P</hi>'s <hi>Quakeriſm a new Nick-name,</hi> p. 6. thus, <hi>viz.</hi> 'But the Diſtinction between <hi>Moral</hi> and <hi>Chriſtian,</hi> the making holy Life Legal, and Faith in the Hiſtory of Chriſt's outward Manifeſtation, Chriſtianity. <hi>Note<g ref="char:punc">▪</g>
+                  </hi> That <hi>W. P.</hi> had reaſon to oppoſe this Diſtinction; for, will a Hiſtorical faith, without holy Life, make a good <hi>Chriſtian?</hi> Is an Immoral Man, having only an Hiſtorical Faith, a good <hi>Chriſtian?</hi> I think, I may ſay on his behalf, he never intended any ways to ſlight Chriſt's outward Manifeſtation, as will appear by his following Words, thus, <q>But a firm belief in him, that ſo Appeared, Lived and Died, Roſe and Aſcended, both as teſtified of in the Scriptures of Truth, and more eſpecially as he breaks in upon the Soul, by his divine Diſcoveries, as the <hi>true Light inlightens every Man;</hi>
+                  </q> this I call Chriſtian. And I add, on the Behalf of all the <hi>Quakers,</hi> that walk in the <hi>Light,</hi> and keep in it, they cannot ſlight Chriſt's outward Manifeſtation.</p>
+               <p>
+                  <hi>F. Howgil</hi>'s <hi>Works,</hi> p. 211. <q>All that has ſprung up ſince the <hi>Whore</hi> has ſitten as <hi>Queen,</hi> her <hi>Forms, Images</hi> and <hi>Likeneſſes,</hi> is all denied, and diſowned, as to be the Dreſs and Attire of the <hi>Whore,</hi> which have allured People through her inticing Pretences.</q> 
+                  <hi>Note,</hi> What need <hi>Mather</hi> be ſo angry with the <hi>Quakers</hi> for denying her? It looks as if he owned this <hi>Whore,</hi> and was minded to ſit down with her, and drink of her <hi>Cup:</hi> For he may ſee in <hi>Rev.</hi> 14. 8. what ſad Work ſhe has made in the Nations! <hi>She made all Nations drink of the Wine of the Wrath of her Fornication:</hi> And I thought <hi>W. M.</hi> was drawn away, or overcome by Her, and not in his right Mind, when (at his Letter T) he ſays, <hi>The Scriptures are the Attire of the Whore, or Falſe Church, which brings none to know God or Chriſt:</hi> And a great deal of other Trumpery-Stuff his <hi>Paper</hi> is fill'd withal, from <hi>firſt</hi> to <hi>laſt,</hi> beſpeaks him a light and bad Man, full of <hi>Non-ſenſe</hi> and <hi>Malice</hi> againſt the <hi>Quakers.</hi>
+               </p>
+               <p>
+                  <hi>C. A</hi>'s <hi>Sword drawn,</hi> p. 2. 'And alſo the Rule whereby the Saints are guided, is 'that which was before the Scriptures was. <hi>Note, Mather</hi> has either loſt his Un<g ref="char:EOLhyphen"/>derſtanding, otherwiſe never had any. Was there no <hi>Saints</hi> before the <hi>Scriptures?</hi> If there was, had they neither <hi>Rule</hi> nor <hi>Guide?</hi> The <hi>Scriptures</hi> could not be a <hi>Rule</hi> before they were in being: The <hi>Spirit of God</hi> was before Man or the World was. Holy Men of God (which I take to be <hi>Saints)</hi> ſpoke forth the <hi>Scriptures,</hi> as they were moved by the Holy Ghoſt.</p>
+               <p>
+                  <hi>R. Hubberthorn</hi> and <hi>G. F's Truth's Defence,</hi> p. 104. 'For our giving forth printed 'Books, to ſhew forth the filthy Practices of ſome others, and thine, <hi>&amp;c. Note,</hi> Thou art Angry with us, and alſo with what is ſpoken from the <hi>Spirit of Truth</hi> in any, is little heeded by thee; or what is ſpoken in the <hi>Scriptures</hi> and <hi>Chapters</hi> thou makeſt no difference: Lay down thy <hi>Daggers,</hi> and call for <hi>Quarter;</hi> the <hi>Quakers</hi> and the <hi>Bible</hi> are too hard for thee, or any Apoſtate in your Town, <hi>&amp;c.</hi>
+               </p>
+               <p>Moſt of theſe things have been anſwered before, and will ſpeak for themſelves<g ref="char:punc">▪</g> but if thou in thy Fury hadſt killed a Man and no other had known it, Who might have been <hi>Chief Speaker</hi> in this Caſe? See <hi>Gen.</hi> 4, 6, 7. <hi>And the Lord ſaid unto</hi> Cain, <hi>Why art thou Wroth, and why is thy Countenance Fallen? If thou doſt well, Shalt thou not be accepted? And if thou doſt not well, Sin lieth at the Door.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>W. Mather<hi>'s Perverſions Noted.</hi>
+               </head>
+               <p>NOW, having ſearched the <hi>Quakers</hi> Books, thoſe <hi>Pages</hi> and <hi>Paſſages</hi> ſet down by <hi>William Mather,</hi> I do not find in any of the Books cited by him, theſe following Paſſages, <hi>viz. In no ſenſe can the Scriptures properly be called the Word of God:</hi> However, I deſire <hi>W. M.</hi> to prove by plain Scripture, where they are properly ſo call'd.</p>
+               <p>
+                  <hi>It is the Devil that contends for the Scriptures to be the Word of God.</hi> (C) Here he was digging a Pit for others, and himſelf is fallen therein.</p>
+               <p>
+                  <hi>They are blind Sots, and evil Beaſts, that ſay ths Scriptures are the written Word of God</hi> (E) <hi>Note,</hi> I have not found it in the <hi>Quakers</hi> Books. <hi>[Beaſtly-ware, &amp;c.]</hi> I Challenge <hi>W. M.</hi> to prove this to be ſpoken either of the <hi>Scripture</hi> or <hi>Bible</hi> in any one of our Books; 'tis <hi>F. Bugg</hi>'s old repeated and refuted groſs Lye.</p>
+               <p>
+                  <hi>The Knowledge and Experiences, that the Fleſhly-wiſe got in them, muſt be forſaken, for it fits People for the Slaughter, being not the pure Milk of the Word.</hi> (O)</p>
+               <p>
+                  <hi>Therefore he</hi> (W. M.) <hi>is not to obey any Command in Scripture, but his own Spirit mo<g ref="char:EOLhyphen"/>ved him. Note,</hi> To put up in Mockery a ſilly Picture of a Book, and call it <hi>The Holy Bible,</hi> with four Hands bely'd about it. <hi>William,</hi> This was from thy own Spirit very wickedly done, to hold up <hi>that</hi> in Deriſion, and make it a Scorn to Fools.</p>
+               <p>Thou talkeſt of <hi>giving God Thanks,</hi> and <hi>Family-Prayers,</hi> or <hi>Catechiſing Children;</hi> but remember, <hi>The Prayers of the Wicked are an Abomination to the Lord.</hi>
+               </p>
+               <p>But there is more ſtill to Charge thee with. How came it to paſs, when <hi>F. Howgil</hi> in his <hi>Works,</hi> p. 211. ſays and teſtifies againſt <hi>Inventions, Images,</hi> &amp;c. and the <hi>Attire</hi> of the <hi>Whore,</hi> what ailed thee? Was thou bewitched with her, ſo to forget thy Self, and ſay (at T) <hi>The Scriptures are the Attire of the Whore or Falſe Church, which brings none to know God and Chriſt?</hi>
+               </p>
+               <p>And for <hi>W. Mather</hi> to put in, <hi>Faith in Chriſt's outward Manifeſtation,</hi> inſtead of, <hi>Faith in the Hiſtory,</hi> was both knaviſh and wicked (at his S.)</p>
+               <p>(h i) The <hi>Light that inlightens every Man that cometh into the World,</hi> and the <hi>Grace of God which brings Salvation, which has appeared to all Men,</hi> is not only <hi>ſome natural Reaſon</hi> or <hi>Underſtanding,</hi> as <hi>W. M.</hi> and our Adverſaries would have it; he is very ignorant of the <hi>Light</hi> of Chriſt, and <hi>Grace</hi> of God, neither is he taught by it, as the Apoſtles were, to deny <hi>Ungodlineſs,</hi> Tit 2. 12. neither doth he obey it, but ſomething elſe, that is, the Imaginations of his own evil Heart. Neither did Chriſt approve of them that thought to have <hi>eternal Life in the Scriptures;</hi> but rather reproves them, becauſe they will not <hi>come to him, that they may have Life,</hi> Joh. 5. 39, 40.</p>
+               <p>Now (at Letter k) it is <hi>Mather</hi> and our <hi>Adverſaries,</hi> that ſay, <hi>The Scripture is the Rule and Touch-ſtone,</hi> inſtead of the <hi>Spirit;</hi> the <hi>Quakers</hi> printed Books do well agree with the Scriptures; therefore a Lye in <hi>Mather</hi> and our <hi>Adverſaries,</hi> that ſay the contrary.</p>
+               <p>And we did meet <hi>G. K.</hi> ſeveral times, until he was denied; and that <hi>Mather</hi> and our <hi>Adverſaries</hi> (as he ſays) are not Sincere, while he Cloaks Errors in his own Books, which are not to be found in the <hi>Quakers</hi> Books. And their <hi>Principles</hi> are the ſame now, as they were, when firſt a People, tho' backſliding <hi>Mather,</hi> and ſome others, make themſelves ignorant thereof.</p>
+               <p>Now to his <hi>Objection,</hi> If any ſay, that this Man, <hi>Mather,</hi> hath given full and true Quotations out of the <hi>Quakers</hi> Books, they ſay an Untruth; but that he has wil<g ref="char:EOLhyphen"/>fully wronged the <hi>Quakers</hi> on this occaſion, is true. And the <hi>Quakers</hi> ſay, <hi>Chriſt is the Word of God,</hi> and ſo ſay the <hi>Scriptures,</hi> Rev. 19. 13. <hi>And he was clothed with a Veſture dipt in Blood, and his Name is called the Word of God.</hi> And it is falſe in <hi>Ma<g ref="char:EOLhyphen"/>ther</hi> to ſay, we call <hi>our Writings</hi> the <hi>Word</hi> of the <hi>Lord.</hi>
+               </p>
+               <p>Then he <hi>Queries, how ſome of old made the Word of God of none Effect?</hi> Anſwer, That may be, as to their own ſelves, by their Rebellion againſt Chriſt. But <hi>Ma<g ref="char:EOLhyphen"/>ther</hi> ſays, <hi>They could not ſo uſe Chriſt:</hi> Let him ſee <hi>John</hi> 18. 2. how <hi>Judas</hi> the <hi>Apo<g ref="char:EOLhyphen"/>ſtate betrayed his Maſter,</hi> and the ſad effect that followed for his ſo doing, <hi>he went and hanged himſelf.</hi>
+               </p>
+               <p>Again he <hi>Queries, How the</hi> Corinthians <hi>corrupted the Word of God? Anſw.</hi> Why are any ſaid to <hi>make Merchandize of the Word of God?</hi>
+               </p>
+               <p>Then his third <hi>Query, How the</hi> Devil <hi>could take the Word of God out of Peoples Hearts?</hi> This ignorant Man calls Chriſt's Words in Queſtion: Is there not cauſe to ſuſpect, that the <hi>Devil has taken the Senſe of the Word of God out of</hi> W. Mather<hi>'s Heart</hi> at un<g ref="char:EOLhyphen"/>awares, or while he has Slept, and ſown <hi>Tares</hi> inſtead thereof: See <hi>Mat.</hi> 13. 28. <hi>He ſaid unto them, An Enemy hath done this.</hi>
+               </p>
+               <p>
+                  <hi>Laſtly,</hi> I deſire <hi>W. Mather</hi> may be awakened, and his Eyes opened, then he may ſee the <hi>Quakers Books</hi> do well agree with the holy <hi>Scriptures;</hi> and that he may come out of <hi>Darkneſs,</hi> leaſt he meet with <hi>Condemnation,</hi> ſee <hi>John</hi> 3. 19. <hi>And this is the Con<g ref="char:EOLhyphen"/>demnation, that Light is come into the World, and Men loved Darkneſs rather than Light, becauſe their Deeds were Evil.</hi> Verſ. 20. <hi>For every one that doth Evil, hateth the Light, neither cometh to the Light, leſt his Deeds ſhould be reproved.</hi> Now, let <hi>Mather</hi> go to work again, pull out the <hi>Beam</hi> in his own <hi>Eyes,</hi> renounce his own <hi>Errors,</hi> put away his <hi>Malice;</hi> for it was <hi>Cain</hi> that ſlew his<g ref="char:punc">▪</g> Brother, and <hi>Judas</hi> that betrayed his Maſter: And the Followers of the Lord Jeſus Chriſt have been often perſecuted, both in this Nation and elſewhere; and alſo in <hi>New-England,</hi> the Prieſts and their Abettors there perſecuted many of the Lord's Servants, and they killed ſome, and one among the reſt was <hi>William Robinſon.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-ſtreet,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
